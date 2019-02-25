@@ -12,6 +12,7 @@
 		04B8115C222416D6006CC24A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04B8115A222416D6006CC24A /* Main.storyboard */; };
 		04B8115E222416D7006CC24A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04B8115D222416D7006CC24A /* Assets.xcassets */; };
 		04B81161222416D7006CC24A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04B8115F222416D7006CC24A /* LaunchScreen.storyboard */; };
+		04B81169222419B8006CC24A /* IMB_zBPnBs.gif in Resources */ = {isa = PBXBuildFile; fileRef = 04B81168222419B8006CC24A /* IMB_zBPnBs.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		04B8115D222416D7006CC24A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04B81160222416D7006CC24A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04B81162222416D7006CC24A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04B81168222419B8006CC24A /* IMB_zBPnBs.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = IMB_zBPnBs.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				04B81156222416D6006CC24A /* AppDelegate.swift */,
 				04B81158222416D6006CC24A /* ViewController.swift */,
 				04B8115A222416D6006CC24A /* Main.storyboard */,
+				04B81168222419B8006CC24A /* IMB_zBPnBs.gif */,
 				04B8115D222416D7006CC24A /* Assets.xcassets */,
 				04B8115F222416D7006CC24A /* LaunchScreen.storyboard */,
 				04B81162222416D7006CC24A /* Info.plist */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04B81169222419B8006CC24A /* IMB_zBPnBs.gif in Resources */,
 				04B81161222416D7006CC24A /* LaunchScreen.storyboard in Resources */,
 				04B8115E222416D7006CC24A /* Assets.xcassets in Resources */,
 				04B8115C222416D6006CC24A /* Main.storyboard in Resources */,
